@@ -1,0 +1,14 @@
+*.classpath
+*.project
+*.pydevproject
+*.settings
+*.iml
+target/
+test-output/
+bin/
+lib/
+temp/
+.idea/
+.gradle/
+gradle/
+build/
